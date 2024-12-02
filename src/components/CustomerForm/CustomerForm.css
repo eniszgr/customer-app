@@ -1,0 +1,25 @@
+form{
+    display: flex;
+}
+
+form .input{
+    flex:9;
+    height: 40px;
+    display: flex;
+}
+form .input input{
+    width: 100%;
+    margin: 2px solid black;
+    border-radius: 10px;
+}
+form .button {
+    height: 50%;
+    flex: 1;
+    height: 40px;
+    display: flex;
+}
+form .button button{
+    margin-left: 15px; 
+}
+
+
