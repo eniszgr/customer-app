@@ -11,6 +11,7 @@ form .input input{
     width: 100%;
     margin: 2px solid black;
     border-radius: 10px;
+    padding-left: 5px;
 }
 form .button {
     height: 50%;

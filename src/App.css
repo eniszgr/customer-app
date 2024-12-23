@@ -11,3 +11,8 @@
   margin-bottom:20px
 }
 
+.empty{
+  font-style: italic;
+  margin-top: 5px;
+  margin-left: 5px;
+}

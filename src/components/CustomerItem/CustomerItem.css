@@ -2,3 +2,27 @@ li{
     text-decoration: none;
     list-style: none;
 }
+h1{
+    color: black;
+}
+.customer-item{
+    display: flex;
+
+}
+.customer-info img{
+    height: 60px;
+    border-radius: 50%;
+}
+.customer-item .customer-info{
+    flex: 8;
+}
+.customer-item .button{
+    flex: 2;
+    margin-top: 10px;
+}
+.customer-list{
+    padding-top:10px
+}
+.customer-name{
+    margin-left: 15px;
+}
